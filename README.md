@@ -50,7 +50,3 @@ The final Stacked Ensemble successfully breached the 80% variance explanation th
 * **Web Scraping:** `undetected_chromedriver`, `BeautifulSoup4`, `selenium`.
 * **Machine Learning:** `xgboost`, `lightgbm`, `CatBoost`, `scikit-learn`.
 * **Visualization:** `matplotlib`, `seaborn`, `scipy.stats`.
-
----
-**Author:** Podeanu Matei-Alexandru (407)  
-**Location:** Bucharest, January 2026
