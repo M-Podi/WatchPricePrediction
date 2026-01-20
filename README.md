@@ -50,3 +50,6 @@ The final Stacked Ensemble successfully breached the 80% variance explanation th
 * **Web Scraping:** `undetected_chromedriver`, `BeautifulSoup4`, `selenium`.
 * **Machine Learning:** `xgboost`, `lightgbm`, `CatBoost`, `scikit-learn`.
 * **Visualization:** `matplotlib`, `seaborn`, `scipy.stats`.
+
+  ## ⚠️ Dataset Disclaimer
+The data utilized in this research was scraped during **January 2026**. The original raw dataset consisted of the **first 120,000 watch listings** from the **"popular" section of Chrono24**. To maintain model reliability and focus on the mainstream luxury market, the dataset was subsequently filtered to listings priced at or below $20,000 USD, resulting in a final analytical sample of ~32,000 entries.
